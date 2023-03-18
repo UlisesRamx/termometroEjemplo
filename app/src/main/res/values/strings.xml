@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">termometroEjemplo</string>
+    <string name="degrees">degrees</string>
+    <string name="conversion">conversion</string>
+    <string name="btn_convert">convert to Cº</string>
+    <string name="Enter_the_Temperature_in_farenheit">Enter the temperature in farenheit:</string>
+    <string name="Write_here">Write here</string>
+    <string name="Write_a_number">Write a number</string>
+    <string name="result">%d Cº</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">termometroEjemplo</string>
+    <string name="degrees">Grados</string>
+    <string name="conversion">conversión</string>
+    <string name="btn_convert">Convertir a Cº</string>
+    <string name="Enter_the_Temperature_in_farenheit">Ingresa la temperatura en Farenheit:</string>
+    <string name="Write_here">Escribe aquí</string>
+    <string name="Write_a_number">Escribe un número</string>
+    <string name="result">%d Cº</string>
+</resources>
